@@ -1,4 +1,7 @@
 ### Hi there 👋
+### 🌱 I’m currently learning C
+My site: http://cat5274.loca.lt/
+
 
 <!--
 **ShakalnyKot/ShakalnyKot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
