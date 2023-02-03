@@ -15,7 +15,7 @@
     </a>
 
 ### OS
-![Devuan](https://img.shields.io/badge/Devuan-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![Artix Linux](https://img.shields.io/badge/Artix%20Linux-cyan.svg?style=for-the-badge&logo=arch%20linux)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ### IDE
