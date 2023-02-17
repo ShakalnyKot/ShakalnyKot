@@ -16,11 +16,11 @@
 
 ### OS
 ![Artix Linux](https://img.shields.io/badge/Artix%20Linux-cyan.svg?style=for-the-badge&logo=arch%20linux)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+<!-- ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) -->
 
 ### IDE
 ![VSCodium](https://img.shields.io/badge/VSCodium-0078D4?style=for-the-badge&logo=vscodium&logoColor=white)
-![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+<!-- ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white) -->
 
 ### Languages (studing)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
