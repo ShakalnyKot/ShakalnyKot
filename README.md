@@ -26,9 +26,11 @@
 ![Skills (no)](https://skillicons.dev/icons?i=python,cpp,c,bash,html,css,js,arduino&perline=4)
 
 ### Things what I hate
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![systemd](https://img.shields.io/badge/-systemd-%23201A26?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAOxAAADsQBlSsOGwAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAEHSURBVDiNxZOxSsNQFIa/e9OkgVKhxWJNQHIhNNBXEN18CzsVH8FRHBx8A7fikPdwcfIFKk5ONXbpImja6L0OoaVd2sgd/MfL+f7Dx+GKOI7rxadzIzDnwCHVkoFJGy3vymn6nVuBuQSaFWHKWXFc5NoTUdDLgO4f4PW8SwsYoCstYACsC2oAr5MXAFSYINt1/GEfgHw0Rs/mONEe7kmAexrwcfGwMV9bNqkwAcAf9vHOjspHA3r6hT9INraqMFmVbFcwBrP42a2w1FBhQj4agynh/P4ZPZvz/TRdKawrA4go6JmtK3bk/88ogcyCn0gwqUVB6uwftB91gQdCUf1HvgF3jZZ7/QtoQUrOOY/58AAAAABJRU5ErkJggg==&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-orange?logo=cloudflare&logoColor=white&style=for-the-badge)
+![Google](https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white)
 </div>
 
 <!--
