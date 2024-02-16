@@ -1,1 +1,1 @@
-[Check out my codeberg.org account instead](https://codeberg.org/cat2623)
+Migrating from Github to [Codeberg](https://codeberg.org/cat2623)
